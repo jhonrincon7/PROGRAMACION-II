@@ -1,0 +1,30 @@
+.tarjeta-estilo {
+    background-color: aliceblue;
+    border: 1px solid white;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 15px;
+    box-shadow: 0 4px 8px black(0, 0, 0, 0.1);
+    text-align: center;
+    width: 250px;
+}
+
+.tarjeta-titulo {
+    color: aquamarine;
+    margin-bottom: 10px;
+}
+
+.tarjeta-boton {
+    background-color: blueviolet;
+    color: aliceblue;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.tarjeta-boton:hover{
+    background-color: brown;
+    
+}
